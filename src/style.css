@@ -1,0 +1,13 @@
+.status{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.square{
+    width:30px;
+    height:30px;
+    padding:0px;
+    background-color: rgb(179, 240, 240);
+    /* border:black; */
+    border-width: 3px;
+}
